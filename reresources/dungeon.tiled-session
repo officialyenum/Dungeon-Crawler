@@ -1,0 +1,46 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "dungeon.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "/Users/chukwuyenumopone/Documents/Development/PhaserProjects/dungeon-crawler/public/assets/dungeon.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dungeon.tmx": {
+            "scale": 0.5804,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 315.2997932460372,
+                "y": 64.6106133700896
+            }
+        }
+    },
+    "last.exportedFilePath": "/Users/chukwuyenumopone/Documents/Development/PhaserProjects/dungeon-crawler/public/assets",
+    "last.imagePath": "/Users/chukwuyenumopone/Documents/Development/PhaserProjects/dungeon-crawler/public/assets",
+    "map.height": 100,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 100,
+    "openFiles": [
+        "dungeon.tmx",
+        "/Users/chukwuyenumopone/Documents/Development/PhaserProjects/dungeon-crawler/public/assets/dungeon.tsx"
+    ],
+    "project": "dungeon.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "/Users/chukwuyenumopone/Documents/Development/PhaserProjects/dungeon-crawler/public/assets/dungeon.tsx",
+        "dungeon.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
